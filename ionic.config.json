@@ -1,0 +1,7 @@
+{
+  "name": "AppMovil",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
